@@ -1,0 +1,20 @@
+#input
+    4
+    R 1 1
+    C 10
+    T 2 2
+    C 10
+#output
+    203
+#endtest
+
+#input
+    5
+    R 10 11
+    R 100 5
+    C 20
+    T 1 2
+    C 3
+#output
+    1020
+#endtest

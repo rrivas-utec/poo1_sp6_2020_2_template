@@ -1,0 +1,36 @@
+#input
+    6
+    K D 3
+    K C 2
+    R B 3
+    B A 8
+    B E 7
+    K E 4
+    B 4
+#output
+    true - K(D3)
+    true - K(C2)
+    true - R(B3)
+    false - B(A8)
+    true - B(E7)
+    false - K(E4)
+#endtest
+
+#input
+    6
+    K F 1
+    R H 3
+    B G 4
+    B B 2
+    B D 7
+    R E 6
+    D 2
+#output
+    true - K(F1)
+    false - R(H3)
+    true - B(G4)
+    false - B(B2)
+    false - B(D7)
+    false - R(E6)
+#endtest
+
