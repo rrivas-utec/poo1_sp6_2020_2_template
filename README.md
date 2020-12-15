@@ -11,7 +11,7 @@ Escribir un programa que utilizando la clase **`bynary_operation`** y las clases
 
 ![binary_operation](binary_operation.png)
 
-###Use Case
+### Use Case
 ```cpp
     int n = 0;
     cin >> n;
@@ -79,7 +79,7 @@ Escribir un programa que utilizando la clase **`polygon`** y las clases derivada
 ```
 ![polygon](polygon.png)
 
-###Use Case
+### Use Case
 ```cpp
     int n = 0;
     cin >> n;
@@ -146,7 +146,7 @@ Escribir un programa que utilizando la clase **`chess_piece`** y las clases deri
 
 ![<img src="chess_piece.png" width="100"/>](chess_piece.png)
 
-###Use Case
+### Use Case
 ```cpp
     int n = 0;
     cin >> n;
