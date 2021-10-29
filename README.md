@@ -1,4 +1,4 @@
-# Set de Problemas #6
+# Set de Problemas #7
 
 Ejercicios sobre herencia, polimorfismo y sobrecarga del curso de programación orientada a objetos 1 (CS1102).
 
