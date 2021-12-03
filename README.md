@@ -196,7 +196,7 @@ Escribir un programa que utilizando la clase **`chess_piece`** y las clases deri
 ```bash
     true - K(F1)
     false - R(H3)
-    true - B(G4)
+    false - B(G4)
     false - B(B2)
     false - B(D7)
     false - R(E6)
